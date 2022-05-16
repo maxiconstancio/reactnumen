@@ -1,6 +1,17 @@
-# Getting Started with Create React App
+# Apple Store with React
+This project was developed by [Maxi Constancio](https://github.com/maxiconstancio), [Ivan Bello](https://github.com/belloivan), [Cristian Rozzi](https://github.com/cristianrozzi) y [Nicolas Ludueña](https://github.com/Nicolas13081990/Nicolas13081990)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Frontend technologies:
+[![My Skills](https://skills.thijs.gg/icons?i=javascript,react,tailwind,figma&theme=light)](https://skills.thijs.gg)
+
+
+
+## Backend for Cart in this repo: [Api Carrito](http://github.com/maxiconstancio/apicarrito)
+## Backend Technologies:
+[![My Skills](https://skills.thijs.gg/icons?i=javascript,nodejs,mongodb,express&theme=light)](https://skills.thijs.gg)
+
+
+
 
 ## Available Scripts
 
