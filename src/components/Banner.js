@@ -3,7 +3,7 @@ import React from "react";
 
 export default function Banner() {
   return (
-    <div className="w-screen py-0 m-0 bg-gradient-to-r from-black via-gray-600 to-slate-400">
+    <div className="w-full py-0 m-0 bg-gradient-to-r from-black via-gray-600 to-slate-400">
     <div
       className="flex flex-col items-center justify-center space-y-8 lg:flex-row xl:space-x-60 lg:space-x-24 lg:space-y-0">
       <div className="flex flex-col items-start justify-start al m-14 mx-30 md:px-12 lg:px-0 xl:w-9/12 lg:w-2/5">

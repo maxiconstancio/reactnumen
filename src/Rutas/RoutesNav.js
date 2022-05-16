@@ -8,8 +8,7 @@ import Layout from "../components/Layout";
 import Footer from "../components/Footer";
 import Heroes from "../components/Heroes";
 import Redessociales from "../components/Redessociales";
-import Vernombre from "../components/Vernombre"
-import Banner2 from "../components/Banner2";
+
 
 
 
@@ -28,8 +27,7 @@ const RoutesNav = () => {
               <Route path="/login" element= {<Login />} />              
 
        </Routes>
-       <div><Banner2/></div>
-       <div><Vernombre/></div>
+    
        <div><Heroes/></div>
        <div><Redessociales/> </div>
        <div><Footer/></div>
