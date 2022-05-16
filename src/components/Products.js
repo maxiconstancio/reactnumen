@@ -74,6 +74,7 @@ export default function Products() {
 
   let count = 0;
 
+  // eslint-disable-next-line array-callback-return
   state.cart.map((item) => {
     count = count + item.quantity;
     document.getElementById("cartIng").innerHTML = count;
