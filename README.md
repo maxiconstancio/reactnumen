@@ -1,7 +1,7 @@
 # Apple Store with React
 This project was developed by [Maxi Constancio](https://github.com/maxiconstancio), [Ivan Bello](https://github.com/belloivan), [Cristian Rozzi](https://github.com/cristianrozzi) y [Nicolas Ludueña](https://github.com/Nicolas13081990/Nicolas13081990)
 
-## Deployed in Netlify  [Apple Store](https://github.com/maxiconstancio/reactnumen)
+## Deployed in Netlify  [Apple Store](https://applestorenumen.netlify.app/)
 
 ## Frontend technologies:
 [![My Skills](https://skills.thijs.gg/icons?i=javascript,react,tailwind&theme=light)](https://skills.thijs.gg)
